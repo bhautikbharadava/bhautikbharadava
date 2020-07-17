@@ -1,4 +1,4 @@
-![Bhautik Bharadava](https://github.com/blueset/blueset/raw/04f7cae222c5a60389b8a37439fcff6427b02248/EanaHandwritingAnimated.svg)
+![Bhautik Bharadava](https://raw.githubusercontent.com/bhautikbharadava/bhautikbharadava/master/animated.svg)
 
 <p align="center">
 A <em>Full Stack</em> Software Developer.<br>
