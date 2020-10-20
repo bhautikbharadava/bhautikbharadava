@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Ferdina Kusumah
+## Hi there 👋 I'm Bhautik Bharadava
 
 - I'm a software engineer ✌️
 
@@ -10,10 +10,9 @@
 
 - I write at [Medium](https://medium.com/@bhautikbharadava).
 
-- Checkout my portfolio on [LinkedIn](https://www.linkedin.com/in/ferdina-kusumah-599209100/).
+- Checkout my portfolio on [LinkedIn](https://www.linkedin.com/in/bhautikbharadava/).
 
 - Coding all day and everyday 🤟.
-
 
 <br>
 
@@ -23,7 +22,6 @@
 
 <img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/48/000000/python.png" />
 
-<img align="left" alt="Golang" width="30px" src="https://img.icons8.com/color/48/000000/golang.png" />
 
 <img align="left" alt="PHP" width="30px" src="https://img.icons8.com/officel/16/000000/php-logo.png" />
 
@@ -34,6 +32,7 @@
 
 <br />
 
+
 ### Frameworks:
 
 
@@ -43,7 +42,7 @@
 <img align="left" alt="[Javascript] Jquery" width="35px"
     src="https://cdn.iconscout.com/icon/free/png-512/jquery-10-1175155.png" />
 
-<img align="left" alt="[Javascript] React JS" width="60px"
+<img align="left" alt="[Javascript] React JS" width="30px"
     src="https://cdn.iconscout.com/icon/free/png-256/react-4-1175110.png" />
 
 <br />
@@ -85,9 +84,6 @@
 
 </br>
 </br>
-
-[![Bhautik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bhautikbharadava)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Connect with me:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
