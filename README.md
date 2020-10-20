@@ -88,10 +88,6 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
     target="_blank" />][linkedin]
-[<img src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white"
-    target="_blank">][gmail]
-![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&logoColor=white&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FBBharadava)
-
 
 [linkedin]: https://www.linkedin.com/in/bhautikbharadava/
 [gmail]: bhautikbharadava+career@gmail.com
