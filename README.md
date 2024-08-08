@@ -66,8 +66,6 @@
 
 <img align="left" alt="Chrome" width="26px" src="https://img.icons8.com/doodle/48/000000/chrome.png" />
 
-<img align="left" alt="Heroku" width="26px"
-    src="https://raw.githubusercontent.com/sank2000/Tech-stuffs/master/PNG/heroku.png" />
 
 <br />
 
@@ -79,12 +77,7 @@
 
 </br>
 </br>
-<a href="#stats" align="center">
-    <img align="center" alt="Bhautik Bharadava's Top Language" src="https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=bhautikbharadava" />
-</a>
 
-</br>
-</br>
 
 ### Connect with me
 
