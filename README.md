@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bhautik
+# 👋 Hi, I'm Bhautik (Bb)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Senior+Frontend+Engineer;React.js+Specialist;Building+Scalable+Web+Applications;Open+to+Remote+Opportunities" />
@@ -17,10 +17,14 @@
 
 ## 🧠 About Me
 
-I'm a **product-driven frontend engineer** with deep expertise in **React, modern JavaScript, and scalable frontend architectures**.  
-I enjoy solving complex UI problems, improving performance, and designing systems that scale.
+I'm a **product-driven frontend engineer** with deep expertise in **React, modern JavaScript, and scalable frontend architectures**.
 
-Currently freelancing with a **London-based company**, working across frontend architecture, performance optimization, and CI/CD workflows.
+I focus on:
+- Building **maintainable UI systems**
+- Improving **performance & load times**
+- Designing frontend architecture that scales with teams and users
+
+🔒 **Most of my recent work lives in private repositories** (enterprise & client projects).
 
 ---
 
@@ -41,7 +45,7 @@ Currently freelancing with a **London-based company**, working across frontend a
 - **Node.js**, Express (Auth, Cookies, Sessions)
 - **PHP (Laravel)** – REST APIs, Server-side logic
 - **Python (Django)** – Backend services & integrations
-- **API Design:** REST, secure client–server communication
+- **API Design:** REST, secure client-server communication
 
 ---
 
@@ -56,40 +60,35 @@ Currently freelancing with a **London-based company**, working across frontend a
 ---
 
 ### 🧠 Architecture, Data & Browser APIs
-- **Frontend Architecture:** Scalable SPA design, Role-based access control
-- **Data Storage:** IndexedDB, LocalStorage, SessionStorage
-- **Browser APIs:** Notifications, Service Workers (basics)
-- **Security:** Auth flows, cookie handling, permissions
+- Scalable SPA architecture & RBAC systems
+- IndexedDB, LocalStorage, SessionStorage
+- Browser APIs (Notifications, Service Workers – basics)
+- Secure auth & permission handling
 
 ---
 
-### 🧪 Engineering Practices
-- Debugging production issues
-- Performance monitoring & optimization
-- Clean, maintainable, readable code
-- Cross-team collaboration & ownership mindset
+## 🚀 What I Bring to a Team
+
+- Ownership mindset — from idea → production
+- Ability to **untangle complex legacy UIs**
+- Strong debugging skills in **production environments**
+- Clear communication with product & backend teams
+- Focus on long-term maintainability, not quick hacks
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Find Me Online
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/bhautikbharadava?template=classic&isocalendar=1&languages=1&activity=1&repositories=1&base.indepth=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bhautikbharadava&theme=tokyonight&hide_border=true"/>
-</p>
+- 💼 **LinkedIn:** https://www.linkedin.com/in/bhautikbharadava/  
+- 🎨 **CodePen:** https://codepen.io/bhautikbharadava  
+- 🧑‍💻 **GitHub:** https://github.com/bhautikbharadava  
+- 📧 **Email:** bhautikbharadava@gmail.com  
 
 ---
 
 ## 🎯 What I’m Looking For
 
-- Senior / Lead Frontend Roles  
+- Senior / Lead Frontend roles  
 - Remote-first teams  
 - Product-based companies  
 - High-impact frontend ownership  
@@ -98,11 +97,4 @@ Currently freelancing with a **London-based company**, working across frontend a
 
 ---
 
-## 📬 Let’s Connect
-
-- 📧 **Email:** bhautikbharadava@gmail.com  
-- 💼 **LinkedIn:** *(add your LinkedIn URL here)*  
-
----
-
-⭐️ *If you like what you see, feel free to explore my repositories or reach out!*
+⭐️ *Thanks for stopping by — feel free to explore my repositories or reach out!*
