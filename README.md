@@ -1,18 +1,7 @@
-# 👋 Hi, I'm Bhautik (Bb)
+# 👋 Hi, I'm Bhautik
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-    font=Fira+Code
-    &size=24
-    &pause=1000
-    &color=58A6FF
-    &center=true
-    &vCenter=true
-    &width=750
-    &lines=Senior+Frontend+Engineer;
-            React.js+Specialist;
-            Building+Scalable+Web+Applications;
-            Open+to+Remote+Opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Senior+Frontend+Engineer;React.js+Specialist;Building+Scalable+Web+Applications;Open+to+Remote+Opportunities" />
 </p>
 
 🚀 **Senior Frontend Engineer | React.js Specialist | Product-focused Developer**  
