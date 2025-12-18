@@ -74,8 +74,7 @@ Currently freelancing with a **London-based company**, working across frontend a
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhautikbharadava&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhautikbharadava&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://metrics.lecoq.io/bhautikbharadava?template=classic&isocalendar=1&languages=1&activity=1&repositories=1&base.indepth=true" />
 </p>
 
 ---
