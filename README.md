@@ -1,92 +1,120 @@
-## Hi there 👋 I'm Bhautik Bharadava
+# 👋 Hi, I'm Bhautik (Bb)
 
-- I'm a software engineer ✌️
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code
+    &size=24
+    &pause=1000
+    &color=58A6FF
+    &center=true
+    &vCenter=true
+    &width=750
+    &lines=Senior+Frontend+Engineer;
+            React.js+Specialist;
+            Building+Scalable+Web+Applications;
+            Open+to+Remote+Opportunities" />
+</p>
 
-- I ❤️ building new things and helping others 🤝 . Learning something new everyday 🌞.
+🚀 **Senior Frontend Engineer | React.js Specialist | Product-focused Developer**  
+💼 7+ years building scalable, high-performance web applications  
+🌍 Open to **Remote Opportunities** (Senior / Lead Frontend Roles)
 
-- Practicing clean code and understandable✨.
+---
 
-- I ❤️ internet of things and everything that smart 🧐.
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=bhautikbharadava&label=Profile%20Views&color=0e75b6&style=flat)
 
-- I write at [Medium](https://medium.com/@bhautikbharadava).
+---
 
-- Checkout my Codepen for creatives i code [CodePen](https://codepen.io/bhautikbharadava)
+## 🧠 About Me
 
-- Checkout my portfolio on [LinkedIn](https://www.linkedin.com/in/bhautikbharadava/).
+I'm a **product-driven frontend engineer** with deep expertise in **React, modern JavaScript, and scalable frontend architectures**.  
+I enjoy solving complex UI problems, improving performance, and designing systems that scale.
 
-- Coding all day and everyday 🤟.
+Currently freelancing with a **London-based company**, working across frontend architecture, performance optimization, and CI/CD workflows.
 
-<br>
+---
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=bhautikbharadava)
-[![@bhautikb's Holopin board](https://holopin.me/bhautikb)](https://holopin.io/@bhautikb)
+## 🛠️ Tech Stack & Expertise
 
-### Languages:
+### ⚛️ Frontend Engineering
+- **React.js** (Hooks, Context, Performance Optimizations)
+- **State Management:** Redux, Redux Toolkit
+- **Routing:** React Router (v5 → v6 migrations)
+- **Architecture:** Micro-frontends, Module Federation
+- **Bundlers & Tooling:** Webpack (4 & 5), Vite
+- **Performance:** Lazy Loading, Code Splitting, Caching Strategies
+- **UI & Styling:** HTML5, CSS3, Tailwind CSS, Bootstrap
 
-<img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/48/000000/python.png" />
+---
 
+### 🔗 Backend & API Integration
+- **Node.js**, Express (Auth, Cookies, Sessions)
+- **PHP (Laravel)** – REST APIs, Server-side logic
+- **Python (Django)** – Backend services & integrations
+- **API Design:** REST, secure client–server communication
 
-<img align="left" alt="PHP" width="30px" src="https://img.icons8.com/officel/16/000000/php-logo.png" />
+---
 
-<img align="left" alt="Javascript" width="30px" src="https://img.icons8.com/color/48/000000/javascript.png" />
+### ☁️ Cloud, DevOps & Deployment
+- **Containerization:** Docker
+- **Cloud Services:** AWS (ECR, S3)
+- **Edge & CDN:** Cloudflare
+- **CI/CD:** GitHub Actions
+- **Infrastructure as Code:** Terraform
+- **Deployment Strategies:** Zero-downtime releases, build optimizations
 
+---
 
-<br >
-<br >
-<br >
+### 🧠 Architecture, Data & Browser APIs
+- **Frontend Architecture:** Scalable SPA design, Role-based access control
+- **Data Storage:** IndexedDB, LocalStorage, SessionStorage
+- **Browser APIs:** Notifications, Service Workers (basics)
+- **Security:** Auth flows, cookie handling, permissions
 
+---
 
-### Frameworks:
+### 🧪 Engineering Practices
+- Debugging production issues
+- Performance monitoring & optimization
+- Clean, maintainable, readable code
+- Cross-team collaboration & ownership mindset
 
+---
 
-<img align="left" alt="[PHP] Laravel" width="26px"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />
-    
-<img align="left" alt="[Javascript] Jquery" width="35px"
-    src="https://cdn.iconscout.com/icon/free/png-512/jquery-10-1175155.png" />
+## 📊 GitHub Stats
 
-<img align="left" alt="[Javascript] React JS" width="30px"
-    src="https://cdn.iconscout.com/icon/free/png-256/react-4-1175110.png" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhautikbharadava&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhautikbharadava&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-<br />
+---
 
+## 🔥 GitHub Streak
 
-### Tools :
-<img align="left" alt="GitHub" width="26px"
-    src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bhautikbharadava&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img align="left" alt="Postman" width="30px" src="https://img.icons8.com/dusk/64/000000/postman-api.png" />
+---
 
-<img align="left" alt="Visual Studio Code" width="26px"
-    src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
+## 🎯 What I’m Looking For
 
+- Senior / Lead Frontend Roles  
+- Remote-first teams  
+- Product-based companies  
+- High-impact frontend ownership  
 
-<img align="left" alt="Spotify" width="26px" src="https://img.icons8.com/cute-clipart/64/000000/spotify.png" />
+📅 **Availability:** 60 days (Negotiable)
 
-<img align="left" alt="Terminal" width="26px"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+---
 
-<img align="left" alt="Chrome" width="26px" src="https://img.icons8.com/doodle/48/000000/chrome.png" />
+## 📬 Let’s Connect
 
+- 📧 **Email:** bhautikbharadava@gmail.com  
+- 💼 **LinkedIn:** *(add your LinkedIn URL here)*  
 
-<br />
+---
 
-### Stats
-
-<a href="#stats" align="center">
-    <img align="center" alt="Bhautik Bharadava's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bhautikbharadava&count_private=true&show_icons=true&include_all_commits=true&show_owner=true"/>
-</a>
-
-</br>
-</br>
-
-
-### Connect with me
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
-    target="_blank" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/bhautikbharadava/
-[gmail]: bhautikbharadava+career@gmail.com
-[twitter]: https://twitter.com/BBharadava
-
+⭐️ *If you like what you see, feel free to explore my repositories or reach out!*
